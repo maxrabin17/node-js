@@ -8,3 +8,5 @@ if (amount < 10) {
 
 console.log(`hey it's my first node app!!`)
 console.log('new log')
+console.log('new log')
+console.log('new log')
