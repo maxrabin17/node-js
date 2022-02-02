@@ -1,10 +1,4 @@
-// Modules 
-const john = 'john'
-const peter = 'peter'
-
-const sayHi = (name) => {
-    console.log(`Hello there ${name}`)
-}
+//Modules
 
 sayHi('susan')
 sayHi(john)
